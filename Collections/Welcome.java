@@ -21,7 +21,6 @@ public class Welcome {
 		order.add("");
 		order.add("");
 		order.add("");
-		order.add("");
 		
 		for(Object o:order) {
 			System.out.println("\t"+o);
